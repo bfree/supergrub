@@ -30,7 +30,7 @@ function copy_boot_isos_directory () {
 
 function copy_copyright () {
 
-  cp AUTHORS COPYING "$overlay/boot/grub/"
+  cp AUTHORS COPYING "$overlay/boot/grub/sgd/"
 
 }
 
